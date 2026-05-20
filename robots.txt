@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kempiak.dev/sitemap.xml
+Sitemap: https://skempiak.github.io/sitemap.xml
